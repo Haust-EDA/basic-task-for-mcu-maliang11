@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rtPGwteW)
 # First_Task
 First_Task for C
 
@@ -28,11 +29,22 @@ void delay_ms(unsigned int x)  // 延时函数
 int main(void)
 {
    // 编写你的代码
-
-    
-    
-
- 
+P0=0111 1111
+dalay_ms(500)
+P0=1011 1111
+dalay_ms(500)    
+P0=1101 1111
+dalay_ms(500)    
+P0=1110 1111
+dalay_ms(500)
+P0=1111 0111
+dalay_ms(500) 
+P0=1111 1011
+dalay_ms(500)
+P0=1111 1101
+dalay_ms(500)
+P0=1111 1110
+dalay_ms(500)
 
     return 0;
 }
